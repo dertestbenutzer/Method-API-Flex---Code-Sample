@@ -1,0 +1,15 @@
+<Module>
+  <ModulePrefs
+    name="APPLICATION_KEY"
+    title="Flash RSS Viewer"
+    author="SAP Streamwork"
+    author_email="SAP_ondemandsupport_sw@sap.com"
+    thumbnail="URL_TO_THUMBNAIL"
+    description="Demonstrates how to get and set data using the Flex Method API.">
+	  <Category name="Test methods"/>
+      <Require javascript="URL_TO_JAVASCRIPT"/>
+      <Icon>URL_TO_ICON</Icon>
+	  <!-- uncomment this if you want other users to use this example -->
+      <!--<User email="other_user@example.com"/>-->
+  </ModulePrefs>
+</Module>
