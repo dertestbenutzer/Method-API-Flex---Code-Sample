@@ -1,6 +1,6 @@
 <Module>
   <ModulePrefs
-    name="APPLICATION_KEY"
+    name="com.sap.mueller.ruediger.flexcodesample"
     title="Flash RSS Viewer"
     author="SAP Streamwork"
     author_email="SAP_ondemandsupport_sw@sap.com"
