@@ -7,7 +7,7 @@
     thumbnail="https://github.com/dertestbenutzer/Method-API-Flex---Code-Sample/raw/master/documentation.png"
     description="Demonstrates how to get and set data using the Flex Method API.">
 	  <Category name="Test methods"/>
-      <Require javascript="URL_TO_JAVASCRIPT"/>
+      <Require javascript="https://github.com/dertestbenutzer/Method-API-Flex---Code-Sample/raw/master/testFlash.js"/>
       <Icon>https://github.com/dertestbenutzer/Method-API-Flex---Code-Sample/raw/master/documentation.png</Icon>
 	  <!-- uncomment this if you want other users to use this example -->
       <!--<User email="other_user@example.com"/>-->
